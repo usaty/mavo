@@ -1,0 +1,13 @@
+{
+	"collection": [
+		{
+			"image": "https://cdn.rawgit.com/usaty/mavo/a432591568cde51dc042ccba631e873ca82505b4/images/1_001.jpg",
+			"title": "title",
+			"body": "body"
+		},
+		{
+			"title": "a",
+			"body": "b"
+		}
+	]
+}
