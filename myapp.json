@@ -1,14 +1,14 @@
 {
 	"collection": [
 		{
-			"image": "https://cdn.rawgit.com/usaty/mavo/a432591568cde51dc042ccba631e873ca82505b4/images/1_001.jpg",
+			"image": "https://cdn.jsdelivr.net/gh/usaty/mavo@a432591568cde51dc042ccba631e873ca82505b4/images/1_001.jpg",
 			"title": "title",
 			"body": "body"
 		},
 		{
 			"title": "a",
 			"body": "b",
-			"image": "https://cdn.rawgit.com/usaty/mavo/5e21eb84a64c80d4f0e044bf48b923ed43a5909c/images/1_043.jpg"
+			"image": "https://cdn.jsdelivr.net/gh/usaty/mavo@5e21eb84a64c80d4f0e044bf48b923ed43a5909c/images/1_043.jpg"
 		}
 	]
 }
